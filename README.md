@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date:01-12-2024
 ## Register Number:
 ## Name:
 ## Problem Title
@@ -86,7 +86,7 @@ Builds trust through transparency, showing that alumni feedback leads to tangibl
 
 ## Use Cases
 
-![alt text](<use cases.png>)
+![alt text](SIH.jpg)
 
 ## Technology Stack
 
